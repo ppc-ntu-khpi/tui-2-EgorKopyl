@@ -1,4 +1,3 @@
 # UI Lab 2 
-![](terminal-icon.png)
-![](gui-icon.png)
+![](https://github.com/ppc-ntu-khpi/tui-2-EgorKopyl/blob/master/CLIdemo/Screenshot_20.png)
 
